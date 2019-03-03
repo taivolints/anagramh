@@ -10,4 +10,4 @@ For phrases that contain spaces, the use of quotes is optional:
 ./a.out /path/lemmad.txt "phrase with spaces"
 ./a.out /path/lemmad.txt phrase with spaces
 ```
-(but without quotes, consecutive spaces such as "abc   def" will most likely be reduced into one space by the shell).
+(but without quotes, consecutive spaces such as "abc &nbsp; def" will most likely be reduced into one space by the shell).
